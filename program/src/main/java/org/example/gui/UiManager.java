@@ -24,7 +24,6 @@ import lombok.Setter;
 import org.example.config.ProgramConfig;
 import org.example.util.ProgramTool;
 import org.example.web.TranscriptApiClient;
-
 import java.util.HashMap;
 import java.util.Map;
 import static org.example.config.ProgramConfig.ALGORITHM_ASCA;
