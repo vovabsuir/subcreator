@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-24-orange?logo=openjdk)
 ![JavaFX](https://img.shields.io/badge/JavaFX-17.0.8-%23ED8B00?logo=javafx)
-![License](https://img.shields.io/badge/license-GNUv3-yellow)
+![License](https://img.shields.io/badge/license-GPLv3-yellow)
 
 **Professional subtitle creation and translation tool**
 
